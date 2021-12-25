@@ -1,4 +1,4 @@
 console.log('inside js');
-function sayhello(){
-    console.log('hello from js');
-} 
+ function multi(x,y){
+     return x*y;
+ }
