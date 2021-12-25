@@ -1,4 +1,4 @@
-console.log('inside js');
+console.log('inside js'); 
  function multi(x,y){
      return x*y;
  }
@@ -6,3 +6,8 @@ console.log('inside js');
  function sayhello(){
      console.log('hello php');
  }
+  
+function sum(x,w){
+    return x+w;
+}
+ 
